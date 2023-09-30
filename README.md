@@ -1,4 +1,4 @@
-#### COMP3104 – Developer Operations
+#### Dev Ops – Developer Operations
 
 -Jon
 -Seltzer
