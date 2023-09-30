@@ -4,7 +4,8 @@
   "description": "-Jon\r -Seltzer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
   },
   "keywords": ["Devops", "nodejs", "express", "web"],
   "author": "Jonathan seltzer",
